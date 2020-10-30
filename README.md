@@ -93,7 +93,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ZakariaBrahimi's GitHub Stats" src="https://github-readme-stats.zakariabrahimi.vercel.app/api?username=zakariabrahimi&show_icons=true&hide_border=true" />
+  <img alig="left" alt="ZakariaBrahimi's GitHub Stats" src="https://github-readme-stats.zakariabrahimi.vercel.app/api?username=ZakariaBrahimi&show_icons=true&hide_border=true" />
 
 </details>
 
