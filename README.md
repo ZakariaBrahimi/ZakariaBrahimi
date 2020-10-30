@@ -1,7 +1,7 @@
-### Hi there, I'm Zakaria Abdessamed - aka [codeSTACKr][website] 👋
+### Hi there, I'm Zakaria Abdessamed 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=zakaria_abdessa)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zakaria_abdessa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=zakaria_abdessa)
 
 ## I'm a Computer Science Student, Django Developer, and Google Developer Student Club Lead & Founder!!
 
