@@ -11,7 +11,7 @@
 <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
-<!--rr ### Spotify Playing 🎧 just tessst
+<!--rr ### Spotify Playing 🎧 just tطططتتتst
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
@@ -88,7 +88,7 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity--
 
-</details> -->
+</details>you -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
