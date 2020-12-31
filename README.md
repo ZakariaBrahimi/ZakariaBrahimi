@@ -90,12 +90,12 @@
 
 </details>you -->
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img alig="left" alt="ZakariaBrahimi's GitHub Stats" src="https://github-readme-stats.zakariabrahimi.vercel.app/api?username=ZakariaBrahimi&show_icons=true&hide_border=true" />
 
-</details>
+</details>-->
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
