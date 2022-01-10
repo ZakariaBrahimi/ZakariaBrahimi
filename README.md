@@ -6,9 +6,9 @@
 ## I'm a Computer Science Student, Django Developer, and Google Developer Student Club Community Leader & Founder!
 
 - ⚡ I'm Django Developer
-- 🌱 I’m currently learning React framework
-- 👯 I’m looking to collaborate with other Developers
-<!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
+- 🌱 Currently learning React framework
+- 👯 Looking to collaborate with other Developers
+<!-- - 🥅 2022 Goals: Contribute more to Open Source projects -->
 <!-- - ⚡ Fun fact: I love to draw and play guitar / drums -->
 
 <!--##f# Spotify Playing 🎧 
