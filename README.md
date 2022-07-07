@@ -11,7 +11,7 @@
   <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1AYM4q9pEc5Bj9fyYBfPSG4nc7idltapp/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaBrahimi&layout=compact)](https://github.com/ZakariaBrahimi/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaBrahimi&layout=compact)](https://github.com/ZakariaBrahimi/github-readme-stats)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBrahimi&theme=default&hide_border=true)
   
 
