@@ -8,8 +8,9 @@
 - ⚡ I'm Django Developer
 - 🌱 Currently learning React framework
 - 👯 Looking to collaborate with other Developers
+- I am a geek of coding challenges and problem-solving, check my LeetCode profile [here](https://leetcode.com/user4170I/).
   <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1AYM4q9pEc5Bj9fyYBfPSG4nc7idltapp/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
-  <p align='left'> Also you can view my LeetCode profile <a href='https://leetcode.com/user4170I/'><u>here</u>.</a></p>
+  
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBrahimi&theme=default&hide_border=true)
 <!--
