@@ -5,11 +5,11 @@
 
 <b><p align='left'>I have a bachelor degree in Computer Science and Software Engineering, and Currently studying Entrepreneurship and Project Management at Higher National School of Management in Algeria</p> </b>
 
-- ⚡ I'm Django & React Developer
+- ⚡ Django & React Developer with PosgreSQL and TailwindCSS
 - 🌱 Interested in Product Management using Agile Software Development
-- 👯 Looking to collaborate with other Developers and an ambitious & growing team that is tackling a major problem. 
-- I am a passionate on coding challenges and problem-solving, check out my LeetCode profile [here](https://leetcode.com/ZakariaAbdessamedBrahimi/).
-  <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1oY8c3KKFNEd94rV7F-cQcAWj5R2b7jUs/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+- 👯 Looking to collaborate with other Developers and a growing team that is tackling a major problem. 
+- Data Structures and Algorithms Enthusiast, check out my [LeetCode profile](https://leetcode.com/ZakariaAbdessamedBrahimi/).
+  <p align='left'> You can view my Complete resume <a href='https://drive.google.com/file/d/1oY8c3KKFNEd94rV7F-cQcAWj5R2b7jUs/view?usp=sharing' target=_blank><u>here</u>.</a></p>
   
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBrahimi&theme=default&hide_border=true)
