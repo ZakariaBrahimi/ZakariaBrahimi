@@ -3,13 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zakariaabdessamed-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakariaabdessamed/)](https://www.linkedin.com/in/zakariaabdessamed/) [![Github Badge](https://img.shields.io/badge/-ZakariaBrahimi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ZakariaBrahimi/)](https://www.github.com/ZakariaBrahimi/) [![Twitter Badge](https://img.shields.io/badge/-ZakariaBrahimi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ZakariaBrahimi/)](https://www.twitter.com/ZakariaBrahimi/) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ZakariaBrahimi alt=ZakariaBrahimi /> </p>
 
-<b><p align='left'>I'm a Computer Science Student, Django Developer, and Google Developer Student Club Community Leader & Founder!</p> </b>
+<b><p align='left'>I have a bachelor degree in Computer Science and Software Engineering, and Currently studying Entrepreneurship and Project Management at Higher National School of Management in Algeria</p> </b>
 
-- ⚡ I'm Django Developer
-- 🌱 Currently learning React framework
-- 👯 Looking to collaborate with other Developers
-- I am a geek of coding challenges and problem-solving, check my LeetCode profile [here](https://leetcode.com/user4170I/).
-  <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1AYM4q9pEc5Bj9fyYBfPSG4nc7idltapp/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+- ⚡ I'm Django & React Developer
+- 🌱 Interested in Product Management using Agile Software Development
+- 👯 Looking to collaborate with other Developers and an ambitious & growing team that is tackling a major problem. 
+- I am a passionate on coding challenges and problem-solving, check out my LeetCode profile [here](https://leetcode.com/ZakariaAbdessamedBrahimi/).
+  <p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1oY8c3KKFNEd94rV7F-cQcAWj5R2b7jUs/view?usp=sharing' target=_blank><u>here</u>.</a></p>
   
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBrahimi&theme=default&hide_border=true)
