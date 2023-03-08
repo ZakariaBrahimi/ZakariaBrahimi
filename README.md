@@ -20,10 +20,5 @@
   
 <br>
 
-<span align="center">
-  
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-</span>
-[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=react,react,0bb28f;Django,Django,ccd7b4;css3,css3,d4c3a8;HTML,html,ef63f6;Python,python,9448d8;postman,postman,cfa2ba;POSTGRESQL,POSTGRESQL,1fcfef;docker,docker,49a8fb;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&theme=github_dark&line1=react,react,0bb28f;Django,Django,ccd7b4;css3,css3,d4c3a8;HTML,html,ef63f6;Python,python,9448d8;postman,postman,cfa2ba;POSTGRESQL,POSTGRESQL,1fcfef;docker,docker,49a8fb;)
+<!-- <img src="https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=react,react,0bb28f;Django,Django,ccd7b4;css3,css3,d4c3a8;HTML,html,ef63f6;Python,python,9448d8;postman,postman,cfa2ba;POSTGRESQL,POSTGRESQL,1fcfef;docker,docker,49a8fb;" alt="My Tech Stack" /> -->
