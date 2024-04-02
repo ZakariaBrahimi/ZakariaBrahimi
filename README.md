@@ -3,13 +3,14 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zakariaabdessamed-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zakariaabdessamed/)](https://www.linkedin.com/in/zakariaabdessamed/) [![Github Badge](https://img.shields.io/badge/-ZakariaBrahimi-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ZakariaBrahimi/)](https://www.github.com/ZakariaBrahimi/) [![Twitter Badge](https://img.shields.io/badge/-ZakariaBrahimi-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ZakariaBrahimi/)](https://www.twitter.com/ZakariaBrahimi/) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ZakariaBrahimi alt=ZakariaBrahimi /> </p>
 
-<b><p align='left'>I have a bachelor degree in Computer Science and Software Engineering, and Currently studying Entrepreneurship and Project Management at Higher National School of Management in Algeria</p> </b>
+<b><p align='left'>⚡ A software Engineer who breadging ideas into Reality </p> </b>
 
-- ⚡ Django & React Developer with PosgreSQL and TailwindCSS
-- 🌱 Interested in Product Management using Agile Software Development
+- 🚀 Django & React Developer with PosgreSQL and TailwindCSS
+- 🎯 Product Management and Agile Software Development enthusiast
 - 👯 Looking to collaborate with other Developers and a growing team that is tackling a major problem. 
-- Data Structures and Algorithms Enthusiast, check out my [LeetCode profile](https://leetcode.com/ZakariaAbdessamedBrahimi/).
-  <p align='left'> You can view my Complete resume <a href='https://drive.google.com/file/d/1oY8c3KKFNEd94rV7F-cQcAWj5R2b7jUs/view?usp=sharing' target=_blank><u>here</u>.</a></p>
+- 🌍 Data Structures and Algorithms Enthusiast, check out my [LeetCode profile](https://leetcode.com/ZakariaAbdessamedBrahimi/).
+  <p align='left'> You can view my Complete resume <a href='https://drive.google.com/file/d/1oY8c3KKFNEd94rV7F-cQcAWj5R2b7jUs/view?usp=sharing' target=_blank><u>here</u>.</a> and take a look to my portfolio<a href='https://www.zakaria-abdessamed-brahimi.me/' target=_blank><u>zakaria-abdessamed-brahimi.me</u></a></p>
+  
   
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ZakariaBrahimi&theme=default&hide_border=true)
