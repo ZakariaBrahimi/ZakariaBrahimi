@@ -4,7 +4,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ZakariaBrahimi alt=ZakariaBrahimi /> </p>
 
 <b><p align='left'>⚡ A software Engineer who breadging ideas into Reality </p> </b>
-::
+
 - 🚀 Django & React Developer with PosgreSQL and TailwindCSS
 - 🎯 Product Management and Agile Software Development enthusiast
 - 👯 Looking to collaborate with other Developers and a growing team that is tackling a major problem. 
