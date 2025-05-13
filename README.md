@@ -9,7 +9,7 @@
 - 🎯 Product Management and Agile Software Development enthusiast
 - 👯 Looking to collaborate with other Developers and a growing team that is tackling a major problem. 
 - 🌍 Data Structures and Algorithms Enthusiast, check out my [LeetCode profile](https://leetcode.com/ZakariaAbdessamedBrahimi/).
-  <p align='left'> You can view my Complete resume <a href='https://drive.google.com/file/d/1hlHCNeKwZ-2GDuj6ChZ11lZgfMJlWoQI/view?usp=sharing' target=_blank><u>here</u>.</a> and take a look to my portfolio <a href='https://www.zakaria-abdessamed-brahimi.me/' target=_blank><u>zakaria-abdessamed-brahimi.me</u></a></p>
+  <p align='left'> You can view my Complete resume <a href='https://drive.google.com/file/d/1hlHCNeKwZ-2GDuj6ChZ11lZgfMJlWoQI/view?usp=sharing' target=_blank><u>here</u>.</a> and take a look to my portfolio <a href='https://www.zakaria-abdessamed-brahimi.space/' target=_blank><u>zakaria-abdessamed-brahimi.space</u></a></p>
   
   
 
